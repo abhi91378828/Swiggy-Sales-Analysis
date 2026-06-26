@@ -44,3 +44,8 @@ Analyzed monthly and weekly sales patterns.
 Compared food category performance.
 Evaluated customer ratings and average order value.
 Created visual dashboards to communicate business insights effectively.
+
+Author
+Abhishek Yadav
+
+Aspiring Data Analyst | Python | SQL | Tableau | Power BI | Machine Learning
